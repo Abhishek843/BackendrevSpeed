@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/bot
+    url: jdbc:mysql://localhost:3306/boom
     username: root
     password: 2798
     driver-class-name: com.mysql.cj.jdbc.Driver
